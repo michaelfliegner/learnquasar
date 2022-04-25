@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learnquasar (learnquasar)
 
 learquasar
@@ -39,3 +40,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+=======
+my playground for learning quasar framework
+>>>>>>> fd9c990515b9535f79c1053541bf0b457439a93b
